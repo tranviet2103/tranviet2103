@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viet (My english nick name: Simon)
 - 👀 I’m interested in Blockchain, Web3 developments
 - 🌱 I’m currently learning Javascript/HTML/CSS/Solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning Javascript/HTML/CSS/Solidity
 - 📫 How to reach me? telegram: @simon9321, gmail: tranviet210393@gmail.com
 
 <!---
